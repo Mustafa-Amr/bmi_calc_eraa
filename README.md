@@ -1,4 +1,6 @@
 # bmi_calc_eraa
+![project screenshot]
+(project_screenshot)
 
 A new Flutter project.
 
