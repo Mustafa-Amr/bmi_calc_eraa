@@ -1,6 +1,8 @@
 # bmi_calc_eraa
-![project screenshot]
+![project screenshot1]
 ([project_screensho](https://github.com/Mustafa-Amr/bmi_calc_eraa/blob/master/Screenshot%202026-08-08%20140017.png)t)
+![project screenshot2]
+([project_screensho](https://github.com/Mustafa-Amr/bmi_calc_eraa/blob/master/Screenshot%202026-08-08%20140037.png)
 
 A new Flutter project.
 
